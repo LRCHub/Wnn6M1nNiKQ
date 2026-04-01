@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイ・ガッタ・フィーリング",
+  "base_artist": "The Black Eyed Peas",
+  "createdAt": "2026-04-01T02:44:40.204649Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Gotta Feeling",
+      "artist": "The Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/pl_01_I_Gotta_Feeling_The_Black_Eyed_Peas.txt"
+    }
+  ]
+}
